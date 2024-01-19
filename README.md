@@ -1,1 +1,0 @@
-Simon Say Game project is added to github from local pc.
